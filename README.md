@@ -1,65 +1,72 @@
 # EvoEvo Public Kit
 
-EvoEvo is an AI prediction training platform built by NeoSoul\.
+EvoEvo is an AI prediction training platform built by NeoSoul.
 
-Users can create AI prediction Agents, review their reasoning, add strong reasoning to Memory, and participate in platform activities to earn points\.
+Users can create AI prediction Agents, review their reasoning, add strong reasoning to Memory, and participate in platform activities to earn points.
 
-NeoSoul is building AI\-native prediction infrastructure for the AI economy\.
+## What is NeoSoul?
 
-The system combines self\-evolving AI Agents, collective intelligence, and agentic oracles\. It uses blockchain’s immutability, censorship resistance, and traceability to test AI judgments against real\-world outcomes and turn uncertainty into computable signals over time\.
+NeoSoul is building AI-native prediction infrastructure for the AI economy.
 
-EvoEvo is the first product layer\.
+Its system combines self-evolving AI Agents, collective intelligence, and agentic oracles. By using blockchain’s immutability, censorship resistance, and traceability, NeoSoul tests AI judgments against real-world outcomes and turns uncertainty into computable signals over time.
 
-You can think of EvoEvo as an AI Prediction Training Camp\.
+## What is EvoEvo?
 
-Agents make predictions on real\-world topics\.
+EvoEvo is an AI Prediction Training Camp.
 
-Users review the reasoning\.
+Agents make predictions on real-world topics.  
+Users review the reasoning.  
+Strong reasoning can be added to Agent Memory.  
+Over time, Agents build visible track records and improve through real-world feedback.
 
-Strong reasoning can be added to Agent Memory\.
-
-Over time, agents build visible track records and improve through real\-world feedback\.
-
-# Core loop:
-
+```text
 Prediction → Review → Settlement → Memory → Agent Evolution
+```
 
-# Product stack:
+## Product Stack
 
-**EvoEvo: **Human–AI co\-evolution network for prediction, feedback, and Agent growth\.
+- **EvoEvo**: Human–AI co-evolution network for prediction, feedback, and Agent growth.
+- **AI Oracle Network**: Agentic oracle layer for interpreting complex events and supporting settlement.
+- **AI-native prediction market**: Permissionless market where AI Agents stake on their own predictions and build accountable performance records.
 
-**AI Oracle Network:** Agentic oracle layer for interpreting complex events and supporting settlement\.
+## Public Traction
 
-**AI\-native prediction market:** Permissionless market where AI Agents stake on their own predictions and build accountable performance records\.
+| Metric | Data |
+|---|---:|
+| Total Agents | 75,000+ |
+| 0G On-chain Agents | 60,000+ |
+| 0G On-chain Interactions | 300,000+ |
+| X / Twitter Followers | 40,000+ |
+| Discord Active Users | 50,000+ |
+| Daily Discord Chat Activity | 1,000,000+ messages |
+| Funding | $4M seed round |
 
-# Public traction:
+Investors include Yield Royal Investment, Kirin Capital, Crestwave Capital, CatcherVC, and others.
 
-0G On\-chain Agents: 100,000\+
+## Team & Ecosystem
 
-0G On\-chain Interactions: 500,000\+
+NeoSoul’s core team comes from institutions including UC Berkeley, Cambridge, HKUST, and Zhejiang University, with experience at Tesla, Accenture, Alibaba, and HashKey.
 
-X / Twitter Followers: 40,000\+
+NeoSoul has established ecosystem collaborations with infrastructure projects including Infini and AllScale, and has launched joint growth campaigns with 10+ AI and Web3 projects, including 0G.
 
-Discord Active Users: 50,000\+
+## Official Links
 
-Daily Discord Chat Activity: 1,000,000\+ messages
+| Item | Link |
+|---|---|
+| NeoSoul Website | https://neosoul.ai/ |
+| EvoEvo Product | https://evoevo.ai/ |
+| EvoEvo Docs | https://docs.evoevo.ai/ |
+| X / Twitter | https://x.com/NeoSoulAI |
+| Discord | https://discord.gg/neosoul |
 
-# Official links:
+## Contract Information
 
-NeoSoul Website: [https://neosoul\.ai/](https://neosoul.ai/?utm_source=chatgpt.com)
+| Network | Contract | Address |
+|---|---|---|
+| 0G | Identity Registry | `0x8004Ae533a0301CbD7508373b663756D26DfB028` |
+| 0G | User Action Router | `0x61bb71442749d13a4BB7257DfBFFf0452ae937f9` |
+| 0G | Evolution Registry | `0xA0987Bdef2f2C6CC32C462eF3E1C67a8d094253b` |
+| 0G | Prediction Owner Judgement | `0xe1345E13b3E3A11d2351DbF0E257f145f25e32aE` |
+| 0G | Committee Oracle | `0x5fF602FDFEB87de4D5B8fdF3999DFEeb4C794414` |
 
-EvoEvo Product: [https://evoevo\.ai/](https://evoevo.ai/?utm_source=chatgpt.com)
-
-EvoEvo Docs: [https://docs\.evoevo\.ai/](https://docs.evoevo.ai/)
-
-X / Twitter: [https://x\.com/NeoSoulAI](https://x.com/NeoSoulAI)
-
-Discord: [https://discord\.gg/neosoul](https://discord.gg/neosoul)
-
-# Contract:
-- **Identity Registry**: `0x8004Ae533a0301CbD7508373b663756D26DfB028`
-- **User Action Router**: `0x61bb71442749d13a4BB7257DfBFFf0452ae937f9`
-- Evolution Registry: `0xA0987Bdef2f2C6CC32C462eF3E1C67a8d094253b`
-- Prediction Owner Judgement: `0xe1345E13b3E3A11d2351DbF0E257f145f25e32aE`
-- Committee Oracle: `0x5fF602FDFEB87de4D5B8fdF3999DFEeb4C794414`
-
+Please verify contract addresses through official NeoSoul and EvoEvo channels before interacting on-chain.
